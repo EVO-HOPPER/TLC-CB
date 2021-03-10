@@ -46,7 +46,7 @@ print 'Please select from Menu:';
 @Array_Ch1     = ['!!' '!@' '!#' '!$' '!%' '!^' '!&' '!*' '!(' '@)'] # Statement    Sigils
 @Array_Ch2     = ['@!' '@@' '@#' '@$' '@%' '@^' '@&' '@*' '@(' '#)'] # ID           Sigils
 @Array_Ch3     = ['#!' '#@' '##' '#$' '#%' '#^' '#&' '#*' '#(' '$)'] # Comment      Sigils
-@Array_Ch4     = ['$!' '$@' '$#' '$$' '$%' '%^' '$&' '$*' '$(' '%)'] # Scaller      Sigils
+@Array_Ch4     = ['$!' '$@' '$#' '$$' '$%' '$^' '$&' '$*' '$(' '%)'] # Scaller      Sigils
 @Array_Ch5     = ['%!' '%@' '%#' '%$' '%%' '%^' '%&' '%*' '%(' '^)'] # Hash         Sigils
 @Array_Ch6     = ['^!' '^@' '^#' '^$' '^%' '^^' '^&' '^*' '^(' '&)'] # Caret/Look   Sigils
 @Array_Ch7     = ['&!' '&@' '&#' '&$' '&%' '&^' '&&' '&*' '&(' '*)'] # Routine      Sigils
