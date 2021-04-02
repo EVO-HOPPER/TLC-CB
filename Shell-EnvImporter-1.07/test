@@ -1,0 +1,42 @@
+#!/bin/sh
+
+perl Makefile.PL 2>&1 > /dev/null
+make 2>&1 > /dev/null
+
+echo -e "\n\n************************** TEST **************************\n\n"
+make test 2>&1 | echo 
+"
+colorize --help
+Usage: colorize (foreground) OR (foreground)/(background) OR --clean[-all] [-|file]
+
+        Colors (foreground) (background)
+                {-} none         none
+                {#} [Bb]lack     black
+                {#} [Rr]ed       red
+                {#} [Gg]reen     green
+                {#} [Yy]ellow    yellow
+                {#} [Bb]lue      blue
+                {#} [Mm]agenta   magenta
+                {#} [Cc]yan      cyan
+                {#} [Ww]hite     white
+                {#} [Dd]efault   default
+                {*} [Rr]andom    random [--exclude-random=<foreground color>]
+
+        First character of color name in upper case denotes increased intensity,
+        whereas for lower case colors will be of normal intensity.
+
+        Options
+                    --attr=ATTR1,ATTR2,...
+                    --clean
+                    --clean-all
+                -c, --config=PATH
+                    --exclude-random=COLOR
+                    --omit-color-empty
+                -h, --help
+                -V, --version
+
+
+"
+echo -e "\n\n************************ END TEST ************************\n\n"
+make clean 2>&1 > /dev/null
+/bin/rm Makefile.old 2>&1 > /dev/null
