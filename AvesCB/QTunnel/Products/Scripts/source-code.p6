@@ -241,18 +241,26 @@ $ perl script.p6 -del
 
 import $optional require = '$imports, $manifest, $value, $opts, $shares, $token, $inc, $org, $net';
 
-        #TODO# Build Application GUIX windows:theme
-            #*# Import Application DATA                 #*# 
-            #*# Load GUIX -> goto open *window*         #*#
-            #*#  :select: index.map                     #*#
-            #*#  :select: controller.index              #*#
-            #*#  :select: controller.route              #*#
-            #*#  :select: controller.patch              #*#
-            #*#  :select: controller.directional        #*#
-            #*#  :select: controller.select(HOT)        #*#
-            #*#  :select: controller.fire               #*#
-            #*#  :select: controller.ON:Target -OTW     #*#
-            #*#  :select: controller.results.confirm    #*#
+```container
+    !import->goto!caller:seek:!export:!DATA+!ENV=@FIRST
+        sub Menu_Dumper_GUIX-CLI {{
+            #TODO# <code-command> <command-console> <aves-logy> 
+            #TODO# <LogySoftwareGroup> <BeyondTheViewport> <8080>
+            #TODO# <open-search> <token-box> <BlockchainMobile> 
+            use   package;   stat: $caller->$value  | tools > gogo > cli \sh \py \p6
+            export   DATA;    mod: $select->@option | tools > gogo > cli \sh \py \p6f
+            export     IO;    map: $select->index.connect
+            export    MAP;    mod: $patch_kit_SDK_API->mod.map(s:)
+            export    SYS;    map: $patch_update_SDK_API->mod.map(d:)
+            export     OS;    mod: $patch_push_SDK_updater->mod.map(k:)
+            export OPTS_2;  index: $patch_code_SDK_firmware->:select:@Action
+            for my $Action require next open $Availabe *window* @Confirm @Copy
+            #TODO# Confirm Copy :Pass: (@Reqs) for my -> goto $Available
+            my @Confirm == 'Set';       #*# Confirm @Set -> !Thanks.
+               my @Copy == 'Check';     #*# Confirm @Copy. ->  !Enjoy.
+        }}
+
+```\\\;;;
     import open system;
 
     use readonly;
