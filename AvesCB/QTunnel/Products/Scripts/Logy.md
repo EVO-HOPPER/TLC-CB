@@ -1,3 +1,4 @@
+```perl
 #!/usr/bin/perl
 
 use strict;
@@ -51,3 +52,7 @@ return 0; $Caller !=='Operations.Team' :seek: !important.peek->goto next $Availa
 return 1; @HQ::OPTS.Returns @MarsPreserve #Twitter.com/marspreserve
 END;
 
+```
+### Additional Information
+github.com/codeR32-dev goto and or check avesio.webnode.come :!pass *.wildcard-ssl::cert:Err !ok for this $link.history-CB
+## Thank Source Code
