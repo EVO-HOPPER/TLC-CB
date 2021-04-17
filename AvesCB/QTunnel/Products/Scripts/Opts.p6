@@ -118,24 +118,28 @@ OPTIONS PROMPT USER: ACC LOGIN ID AUTHORIZATION for UPDATE.PATCH.RELAY @Ready_32
     @COPY__patch__SDK___KIT__MAC___SPOOF___STARGENRAND___WINDOW____CTRL__US.CODE.EN-US.LEGACY.SOURCE.$next.LINE; 
     !==OSS.AIR.TEAM.HOME.EARTH.FIRST.ETX*_goto__$__PARTY 
     return 0;___!Thanks__!Enjoy__Open__Source__Code__Program__for__GIASF__OPTS__SOFTWARE___UPDATE___DARPA___SS__SP__88__ return 0;
-
-        [+/-] \@index.ref      print :|: :. <CB> .: ::: : | :             #TODO# '(!import(caller(connect(rerouting(DATA +mods ))'
-        [+/-] \@main.ref       print :|: :. <QTUNNEL> .: ::: : | :        #TODO# '(!import(syscall:stat:@Copy(return $Options, $Value; for my open system EXPORTS)))'
-        [+/-] \@source.ref     print :|: :. <SHIFT> .: ::: : | :          #TODO# '(!import(@Controller:$API->API() for @callers return {$Value, $Option};))'
-        [+/-] \@package.ref    print :|: :. <SELF> .: ::: : | :           #TODO# '(!import(@DIY:$Special->GUIX() for @callers return {$Value, $Option};))'
-        [+/-] \@update.ref     print :|: :. <ALPHABET> .: ::: : | :       #TODO# '(!import(@DIY:%Hash->GUIX.encode for $unknown CH.32 return $Options, $Value;))'
-        [+/-] \@patch.ref      print :|: :. <DIALER> .: ::: : | :         #TODO# '(!import(@Customs:@ARRAY_CB22[{'(a()+b()=c( ))+(a()+b()=c())'
-        [+/-] \@caller.ref     print :|: :. <ABC> .: ::: : | :            #TODO# '(syscall:@+:$Options,$Value)'+'(a()+b+c=d {...})'
+    
+    load() next $Availabe.caller->*Window* via() !==OPERS.COMMAND !important open service select system required for !==OPERS ==Operations.Development.cache
+break @Copy :shift: next :caller: #TODO# Connect.mods.modulate.truth +> Legacy.src.code.rv.pickup @Ready Caller $Connect->\@Modules patch.DIY.On.The.Fly.RT
+        [+/-] \@index.ref      print :|: :. <CB> .: ::: : | :              #TODO# '(!import(caller(connect(rerouting(DATA +mods ))' Close Channel Connect !NOW.
+        [+/-] \@main.ref       print :|: :. <QTUNNEL> .: ::: : | :         #TODO# '(!import(syscall:stat:@Copy(return $Options, $Value; for my open system EXPORTS)))'
+        [+/-] \@source.ref     print :|: :. <SHIFT> .: ::: : | :           #TODO# '(!import(@Controller:$API->API() for @callers return {$Value, $Option};))'
+        [+/-] \@package.ref    print :|: :. <SELF> .: ::: : | :            #TODO# '(!import(@DIY:$Special->GUIX() for @callers return {$Value, $Option};))'
+        [+/-] \@update.ref     print :|: :. <ALPHABET> .: ::: : | :        #TODO# '(!import(@DIY:%Hash->GUIX.encode for $unknown CH.32 return $Options, $Value;))'
+        [+/-] \@patch.ref      print :|: :. <DIALER> .: ::: : | :          #TODO# '(!import(@Customs:@ARRAY_CB22[{'(a()+b()=c( ))+(a()+b()=c())'
+        [+/-] \@caller.ref     print :|: :. <ABC> .: ::: : | :             #TODO# '(syscall:@+:$Options,$Value)'+'(a()+b+c=d {...})'
         [+/-] \@opts.ref       print :|: :. <ABC> .: ::: : | : :. .: index.connect.map for my :select: '@Hallmark, @Bekind, @Universal' + '$Value' !== fetch() $Available->%Options
-        [+/-] \@index.ref      print :|: :. <XYZ> .: ::: : | :            #TODO# '(abc()+xyz()!==(aabbcc()+xxyyzz()!==$aabbccxxyyzz=="DEST" ))'
-        [+/-] \@mods.ref       print :|: :. <DIALER> .: ::: : | :         #TODO# '($Prev_Line()="HELP_4_HELP-UNKNOWN-PATCH_RIFT_SP-SS"))'
-        [+/-] \@sigils.ref     print :|: :. <ALPHABET> .: ::: : | :       #TODO# '(xx()+zzz()+yyy()'+'(x{$Value,$Option}a()+y2b()=z3c()!== my @Cody return $Options, $Value;
-        [+/-] \@tokens.ref     print :|: :. <SELF> .: ::: : | :           #TODO# '(@Legacy_Aves_Logy_Mobile ~BKU for my BACK-UP $Router!==:select: +:B32 => $Sub_Msg='Bekind|Hallmark!==Universal')()()'+'()()()'+}]))'
-        [+/-] \@blockchain.ref print :|: :. <SHIFT> .: ::: : | :          #TODO# '(!important(@Bekind(@Human_Being(@Cody(@4::Unknown_Caller_Unknown)))))'
-        [+/-] \@ print :|: :. <QTUNNEL> .: ::: : | : >>> <<< !! @ID:|:@ID #TODO# '(!EXPORT(@DATA->CTRL!=='UFO|QUANTUM|ECHLON') return $Options, $Value;)'
-        [+/-] \@ print :|: :. <CB> .: ::: : | : ... // ... // ... //      #TODO# '(!Test(@Fly(@Express(@Module(@Unknown(@Caller(@Unknonw(@Uknonw:!@#$%^&*(!@#$%^&*(!@#$%^&*(@gogo&&dodo!==yo!)))))))))))'
-        show()->my :open: *window* return 0;
-        switch :: caller:connect
+        [+/-] \@index.ref      print :|: :. <XYZ> .: ::: : | :             #TODO# '(abc()+xyz()!==(aabbcc()+xxyyzz()!==$aabbccxxyyzz=="DEST" ))'
+        [+/-] \@mods.ref       print :|: :. <DIALER> .: ::: : | :          #TODO# '($Prev_Line()="HELP_4_HELP-UNKNOWN-PATCH_RIFT_SP-SS"))'
+        [+/-] \@sigils.ref     print :|: :. <ALPHABET> .: ::: : | :        #TODO# '(xx()+zzz()+yyy()'+'(x{$Value,$Option}a()+y2b()=z3c()!== my @Cody return $Options, $Value;
+        [+/-] \@tokens.ref     print :|: :. <SELF> .: ::: : | :            #TODO# '(@Legacy_Aves_Logy_Mobile ~BKU for my BACK-UP $Router!==:select: +:B32 => $Sub_Msg='Bekind|Hallmark!==Universal')()()'+'()()()'+}]))'
+        [+/-] \@blockchain.ref print :|: :. <SHIFT> .: ::: : | :           #TODO# '(!important(@Bekind(@Human_Being(@Cody(@4::Unknown_Caller_Unknown)))))'
+        [+/-] \@ print :|: :. <QTUNNEL> .: ::: : | : >>> <<< !! @ID:|:@ID  #TODO# '(!EXPORT(@DATA->CTRL!=='UFO|QUANTUM|ECHLON') return $Options, $Value;)'
+        [+/-] \@ print :|: :. <CB> .: ::: : | : ... // ... // ... //       #TODO# '(!Test(@Fly(@Express(@Module(@Unknown(@Caller(@Unknow:|:AVES&LOGY.map->$LOG_CODE
+        @display AUTO_ADJUST_CLEAR_FIX.PATCH* command() console() via() caller() select connect \!==@OPERS->$Result :a|b!==c: 
+        (@Unknown:!@#$%^&*(!@#$%^&*(!@#$%^&*(@gogo&&dodo!==yo!)))))))))))' #TODO#
+        show()->my :open: *window* return 0;                               #TODO# Show GUIX_EMMA_LOGY mod.map/source \@import !==OPTS @CODE PASS !Seek @Codys :Winter | Analog: return 0;
+        switch :: caller:connect                                           #TODO# Show GUIX_ANNE_AVES mod.map/code   \@export DATA via !==OPERS! return 0;
 
         # 32 => CB # 22 => BB
         # {$Value, $Option}{$Value, $Option} => $AA # caller:44 => ~/dev/null/temp
