@@ -68,7 +68,7 @@ sub  AVES_A.name  random  gen* {...}  0; 1;
     #TODO# set true or false return values !== require open service system;
     #Item 12# Rebuilding {...} Application {...} operation  {...}    
     Source {...} Index {...} Mod {...} Map {...} 0; 1;    #*# FTL_S12     
-     sub  AVES_M.name  random  gen* {...}    
+     sub  AVES_N.name  random  gen* {...}    
         #*# *Open* open {https://www.github.com/} 0; 1; #^#
     #TODO# set true or false return values !== require open service system;
  ```
