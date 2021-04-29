@@ -1,10 +1,5 @@
-# Welcome
-## Custom 
-
-```perl
-
 use readonly;
-                                                                      [ { (:&:)  } ]
+#*#                                                                    [<{(:&:)}>]
 #*#     Green :: ### $i:AVES :|: <:|:> :|: ### $i:LOGY ::   Green     #*#    \
 #^#    Yellow :: ### $i:AVES :|: <:|:> :|: ### $i:LOGY ::  Yellow     #^#     \
 #TODO# Orange :: ### $i:AVES :|: <:|:> :|: ### $i:LOGY ::  Orange  #TODO#      \
@@ -12,13 +7,13 @@ use readonly;
 #?#      Blue :: ### $i:AVES :|: <:|:> :|: ### $i:LOGY ::    Blue     #?#      \
 #&#      Pink :: ### $i:AVES :|: <:|:> :|: ### $i:LOGY ::    Pink     #&#      /
 #~#    Purple :: ### $i:AVES :|: <:|:> :|: ### $i:LOGY ::  Purple     #~#     /
-                                                                        -> (>*<) PROMPT: USER
+                                                                    -> [{(>%:|:%<)}] #?# PROMPT: USER AUTHORIZATION LAGOON
 print '!Thanks Again For The Given Space && Time Legacy.Bounce';              \
 print {                                                                        \
 sub console_CTRL_command_AVES {...} #*#                                        /
 sub console_CTRL_command_LOGY {...} #*# #*#                                   /
 sub console_CTRL_command_AVES {...} #*# #*# #*#                              /
-sub console_CTRL_command_LOGY {...} #*# #*# #*# #*# Ch. -> -11-             /
+sub console_CTRL_command_LOGY {...} #*# #*# #*# #*# Ch. -> -11-        [<{(:&:)}>]
 sub console_CTRL_command_AVES {...} #*# #*# #*#                            /
 sub console_CTRL_command_LOGY {...} #*# #*#                               /
 sub console_CTRL_command_AVES {...} #*#                                  /
@@ -48,7 +43,7 @@ sub console_CTRL_command {...} #*# #*# #*#                          /
 sub console_CTRL_command {...} #*# #*# #*# #*# Ch. -R+32-          /
 sub console_CTRL_command {...} #*# #*# #*#                         \
 sub console_CTRL_command {...} #*# #*#                              \
-sub console_CTRL_command {...} #*#                                    [xxx.xxx.xxx.xxx]
+sub console_CTRL_command {...} #*#                                   [xox.xox.xox.xox]
 #&#    !== important require \@syscall %==close ++@system:R.engine*** service && goto \ports;
 #*#    !== important require \@syscall %==map  
     #^# {-/+} 
@@ -87,4 +82,3 @@ sub console_CTRL_command {...} #*#                                    [xxx.xxx.x
 }
 no;
 END;
-```
