@@ -1,7 +1,9 @@
-## Welcome
-### Custom Language Scripting
+# Welcome
+
+## Qwerty Language Open Source Software Linux GNU/OS 2021
 
 ```perl
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 use readonly; #*# Read Only >< >< 
 use readonly; #*# Read Only >< >< 
 #*#                                                                                                [<{(:&:)}>]
@@ -13,95 +15,91 @@ use readonly; #*# Read Only >< ><
 #&#      Pink :: ### $i:AVES :|: <:|:> :|: ### $i:LOGY ::    Pink     #&#                              /             => __*__ <= :aves:
 #~#    Purple :: ### $i:AVES :|: <:|:> :|: ### $i:LOGY ::  Purple     #~#                             /              => __*__ <= :logy:
                                                                                     -> (*)     [{(>%:|:%<)}] #?# PROMPT: USER AUTHORIZATION LAGOON
-print '!Thanks Again For The Given Space && Time Legacy.Bounce';                                       \    <=  0; 1; #*# ===***A :|: -> CODY<:|:>LSG
-print {                                                                                                 \   <=  0; 1; #*# ===***B :|: -> $F [(o)] + {cody} 
-sub console_CTRL_command_AVES {...}; #*#                                                                /   <=  0; 1; #*# ===***C :|: -> $T [(o)] + {cody}
-sub console_CTRL_command_LOGY {...}; #*# #*#                                                           /    <=  0; 1; #*# ===***D :|: -> $L [(o)] + {cody}
-sub console_CTRL_command_AVES {...}; #*# #*# #*#                                                      /     <=  0; 1; #*# ===***E :|: -> !@GOGO -1- -0- -0- -1- AC \/ DC 
-sub console_CTRL_command_LOGY {...}; #*# #*# #*# #*# Ch. -> -11-                        ->(*)   [<{(:&:)}>]^ !FT++Win.           (*)
-sub console_CTRL_command_AVES {...}; #*# #*# #*#                                                    /        <=  0; 1; #*#A===*** \
-sub console_CTRL_command_LOGY {...}; #*# #*#                                                       /         <=  0; 1; #*#B===***  \
-sub console_CTRL_command_AVES {...}; #*#                                                          /          <=  0; 1; #*#C===***   \
-                                                                                                  \          <=  0; 1; #*#D===***    \
-                                                                                                   \         <=  0; 1; #*#E===***     \
-sub console_CTRL_command_TEAM  {...}; #*#                                                           \        <=  0; 1; #*#F===***      \
-sub console_CTRL_command_SRC   {...}; #*# #*#                                                        \       <=  0; 1; #*#G===***       \
-sub console_CTRL_command_CODE  {...}; #*# #*# #*#                                                     \      <=  0; 1; #*#H===***        \
-sub console_CTRL_command_CODY  {...}; #*# #*# #*# #*# Ch. -> -22-                                     /       <=  0; 1; #*#I===***       /
-sub console_CTRL_command_PROGY {...}; #*# #*# #*#                                                    /        <=  0; 1; #*#J===***      /
-sub console_CTRL_command_FINAL {...}; #*# #*#                                                       /         <=  0; 1; #*#K===***     /
-sub console_CTRL_command_EXT   {...}; #*#                                                          /          <=  0; 1; #*#L===***    /
-                                                                                                  /           <=  0; 1; #*#M===***   /
-                                                                                                 /            <=  0; 1; #*#N===***  /
-sub console_CTRL_command__CTRL__CB1 {...}; #*#                                                  /             <=  0; 1; #*#O===***  \
-sub console_CTRL_command__CTRL__CB2 {...}; #*# #*#                                             /              <=  0; 1; #*#P===***   \
-sub console_CTRL_command__CTRL__CB3 {...}; #*# #*# #*#                                        /               <=  0; 1; #*#Q===***    \
-sub console_CTRL_command__CTRL__CB4 {...}; #*# #*# #*# #*# Ch. -> -33-                       /                <=  0; 1; #*#R===***     \
-sub console_CTRL_command__CTRL__CB5 {...}; #*# #*# #*#                                      /                 <=  0; 1; #*#S===***      \
-sub console_CTRL_command__CTRL__CB6 {...}; #*# #*#                                         /                  <=  0; 1; #*#T===***       \
-sub console_CTRL_command__CTRL__CB7 {...}; #*#                                            /                   <=  0; 1; #*#U===***        \
-                                                                                         /                    <=  0; 1; #*#V===***         \
-                                                                                        /                     <=  0; 1; #*#W===***          \
-sub console_CTRL_command {...}; #*#                                                    /                      <=  0; 1; #*#X===***           \
-sub console_CTRL_command {...}; #*# #*#                                               /                       <=  0; 1; #*#Y===***            \
-sub console_CTRL_command {...}; #*# #*# #*#                                          /                        <=  0; 1; #*#Z===***             \
-sub console_CTRL_command {...}; #*# #*# #*# #*# Ch. -R+32-                         /                          <=  0; 1; #*# 1AA                 \
-sub console_CTRL_command {...}; #*# #*# #*#                                       /                           <=  0; 1; #*# 2BB                 /
-sub console_CTRL_command {...}; #*# #*#                                         /                             <=  0; 1; #*# 3CC                /
-sub console_CTRL_command {...}; #*#                                 ->(*) [<{(:&:)}>]                         <=  0; 1; #*# 4DD               /
-#&#    !== important require \@syscall %==close ++@system:R.engine*** service && goto \ports;                <=  0; 1; #*# 5EE               /
-#*#    !== important require \@syscall %==map                       #*# /[<{(:&:)}>]  ->(*)                  <=  0; 1; #*# 6FF              /
-    #^# {-/+}                                                          #*#    \                              <=  0; 1; #*# 7GG             /
-    /*- AVES && LOGY RED VS BLUE TEAM DOCS                          #*#        \                             <=  0; 1; #*# 8HH            /
-    #~# Introductional Linguistics                               #*#            \                            <=  0; 1; #*# 9II           / -> (*)
-    #!# Read Only Modules                                        #*#             \                           <=  0; 1; #*#  Qwerty->Translations.Sigil.Tokens.Our.Space-<-|->-(*)
-    #@# ID                                                       #*#              \                          <=  0; 1; #*# 99 \
-    #$# TODO                                                     #*#               \                         <=  0; 1; #*# 88  \
-    #%# SPECS                                                    #*#                \                        <=  0; 1; #*# 77   \
-    #^# WARNINGS OTW SPECS                                       #*#                 \                       <=  0; 1; #*# 66    \
-    #&# Routine Functions                                        #*#                  \                      <=  0; 1; #*# 55     \
-    #*# Comments => ????                                         #*#                   \                     <=  0; 1; #*# 44      \
-    #(#) Select Logy Special                                        #*#                 \                    <=  0; 1; #*# 33       \
-    #)#  Select Aves Left                                               #*#              \                   <=  0; 1; #*# 22        \
-    *      = Asterisk                                                      #^#            \                  <=  0; 1; #*#            \
-    %      = Modulo                                                           #^#          \                 <=  0; 1; #*#             \
-    /      = path                                                                #^#        \                <=  0; 1; #*#             /
-    ...    = running                                                                #^#      \               <=  0; 1; #*#           /
-    \      = ref-path                                                            #^#          \              <=  0; 1; #*#         /
-    ++     = incremental                                                      #^#              \             <=  0; 1; #*#       /
-    .*.    = asterisk :connect:                                            #^#                  \            <=  0; 1; #*#     /
- ,,,.=./   = proto.type-X <- run {...}                                        #^#                \           <=  0; 1; #*#   /
-    |      = proto.connect.index.mod.map                                         #^#              \          <=  0; 1; #*# /
-    ..     = proto.connect.move cd .. changes directory backwards if say            #^#            \         <=  0; 1; #*# \
-    {...}  = proto.path.mod.map == '~//src/map/connect/temp/dev/null/.cache'           #^#          \        <=  0; 1; #*#  \
-    A-Z    = Alphabet            #*# Aves Translate                                    #^#           \       <=  0; 1; #*#   \
-    a-z    = lowercase Alphabet  #^# Logy Software Group                                   #^#        \      <=  0; 1; #*#    \
-    -9     = Base +9 system      #&# Open Source Software                                      #^#     \     :&: 0; 1; #*#     \
-    &&     = Base                #~# Additional Operators                                               \                      (*)
-    ::     = Object Setter       #?# Objective and or Literal like ':Type:' + ":Select:"                 \
-    **     = Special L(example)R #!# End of Script -!- WARNING END OF SCRIPT LOAD NEXT SCRIPT -!-         \
-    *Type* = Special Keyword                                                                               \
-    )      = parameter close                                                                                \
-    ref == AvesTranslate -> ('*&^%$@!~')} + ':|:' }-*/                                                       \
-#*#    // create index for some data                                                                          \
-                                                                                                               \ -> (*)
-index := suffixarray.New(data)                                                                                 /
-                                                                                                              /
-// lookup byte slice s                                                                                       /
-offsets1 := index.Lookup(s, -1) #*#  // the list of all indices where s occurs in data                       \
-offsets2 := index.Lookup(s, 3)  #*# // the list of at most 3 indices where s occurs in data                   \
-                                                                                                               \
-    #&# !== important require \@syscall %==open ++@system:L.engine*** services && goto \open;                   \
-}   #*# !== important require \@syscall !==require import open service && support 0; 1; %==open{+}@system:LE     \
-no; #*# !== important require \@syscall !==require import open service && support 0; 1; %==open{+}@system:        \ ^*goto*^
-END;#*# !== important require \@syscall !==require import open service && support 0; 1; %==open{+}@sys       (C)>:|:<(B)
-
-
-
-
-
-
+print '!Thanks Again For The Given Space && Time Legacy.Bounce';                                       \     <=  0; 1; #*# ===***A :|: -> CODY<:|:>LSG
+print {                                                                                                 \    <=  0; 1; #*# ===***B :|: -> $F [(o)] + {cody} 
+sub console_CTRL_command_AVES {...}; #*#                                                                /    <=  0; 1; #*# ===***C :|: -> $T [(o)] + {cody}
+sub console_CTRL_command_LOGY {...}; #*# #*#                                                           /     <=  0; 1; #*# ===***D :|: -> $L [(o)] + {cody}
+sub console_CTRL_command_AVES {...}; #*# #*# #*#                                                      /      <=  0; 1; #*# ===***E :|: -> !@GOGO -1- -0- -0- -1- AC \/ DC 
+sub console_CTRL_command_LOGY {...}; #*# #*# #*# #*# Ch. -> -11-                        ->(*)   [<{(:&:)}>]^ !FT++Win.  ===============================[*]                        ***\
+sub console_CTRL_command_AVES {...}; #*# #*# #*#                                                    /         <=  0; 1; #*#A===***  \                    \                         ***\
+sub console_CTRL_command_LOGY {...}; #*# #*#                                                       /          <=  0; 1; #*#B===***   \____________________\                         ***\
+sub console_CTRL_command_AVES {...}; #*#                                                          /           <=  0; 1; #*#C===***    \                    \                         ***\
+                                                                                                  \           <=  0; 1; #*#D===***     \____________________\                         ***\
+                                                                                                   \          <=  0; 1; #*#E===***      \                    \                         ***\
+sub console_CTRL_command_TEAM  {...}; #*#                                                           \     C   <=  0; 1; #*#F===***       \____________________\                         ***\
+sub console_CTRL_command_SRC   {...}; #*# #*#                                                        \    B   <=  0; 1; #*#G===***  -> :: \                    \                         ***\
+sub console_CTRL_command_CODE  {...}; #*# #*# #*#                                                     \       <=  0; 1; #*#H===***  -> ::  \____________________\                         ***\
+sub console_CTRL_command_CODY  {...}; #*# #*# #*# #*# Ch. -> -22-                                     / (*)   <=  0; 1; #*#I===***  -> ::  /                     \                         ***\
+sub console_CTRL_command_PROGY {...}; #*# #*# #*#                                                    /        <=  0; 1; #*#J===***  -> :: /_______________________\                         ***\
+sub console_CTRL_command_FINAL {...}; #*# #*#                                                       /     C   <=  0; 1; #*#K===***       /                         \                         ***\
+sub console_CTRL_command_EXT   {...}; #*#                                                          /      B   <=  0; 1; #*#L===***     /____________________________\                         ***\
+                                                                                                  /           <=  0; 1; #*#M===***    /                              \                         ***\
+                                                                                                 /            <=  0; 1; #*#N===***   /________________________________\                          **\
+sub console_CTRL_command__CTRL__CB1 {...}; #*#                                                  / ___~___     <=  0; 1; #*#O===***   \                                 \                          **\
+sub console_CTRL_command__CTRL__CB2 {...}; #*# #*#                                             /  ___!___     <=  0; 1; #*#P===*** __ \_________________________________\                          **\
+sub console_CTRL_command__CTRL__CB3 {...}; #*# #*# #*#                                        /   ___@___     <=  0; 1; #*#Q===*** ___ \                                 \                          **\
+sub console_CTRL_command__CTRL__CB4 {...}; #*# #*# #*# #*# Ch. -> -33-                       /    ___#___     <=  0; 1; #*#R===***   __ \_________________________________\                          **\
+sub console_CTRL_command__CTRL__CB5 {...}; #*# #*# #*#                                      /     ___$___     <=  0; 1; #*#S===***   ___ \                                 \                          **\
+sub console_CTRL_command__CTRL__CB6 {...}; #*# #*#                                         /      ___%___     <=  0; 1; #*#T===***  ___   \_________________________________\                          **\
+sub console_CTRL_command__CTRL__CB7 {...}; #*#                                            /       ___^___     <=  0; 1; #*#U===***     ___ \                                 \                          **\
+                                                                                         /        ___&___     <=  0; 1; #*#V===***   ___    \_________________________________\                          **\
+                                                                                        /         ___*___     <=  0; 1; #*#W===***     ___   \                                 \                          **\
+sub console_CTRL_command {...}; #*#                                                    /                      <=  0; 1; #*#X===***    ___     \_________________________________\                          **\
+sub console_CTRL_command {...}; #*# #*#                                               /                       <=  0; 1; #*#Y===***       ___   \                                 \                          **\
+sub console_CTRL_command {...}; #*# #*# #*#                                          /                        <=  0; 1; #*#Z===***    ___       \ ________________________________\                          **\
+sub console_CTRL_command {...}; #*# #*# #*# #*# Ch. -R+32-                         /                          <=  0; 1; #*# 1AA C*    ___        \                                 \                          **\
+sub console_CTRL_command {...}; #*# #*# #*#                                       /                           <=  0; 1; #*# 2BB  O*      ___      \_________________________________\                           *\
+sub console_CTRL_command {...}; #*# #*#                                         /                             <=  0; 1; #*# 3CC   D*        ___  /                                   \                           *\
+sub console_CTRL_command {...}; #*#                                 ->(*) [<{(:&:)}>]                         <=  0; 1; #*# 4DD    E*           /_____________________________________\                            \_______________________________*_______________________________ -> (y) !== exit [knock-knock] FTL
+#&#    !== important require \@syscall %==close ++@system:R.engine*** service && goto \ports;                 <=  0; 1; #*# 5EE =====(*Y*)=====/ + + + + + + + + + + + + + + + + + +   \                            #*#  =================:|:  GUIX  :|: ==========================[&]
+#*#    !== important require \@syscall %==map                       #*# /[<{(:&:)}>]  ->(*)                   <=  0; 1; #*# 6FF ==============/ + + + + + + + + + + + + + + + + + + ^   \                           #*#   =====================MENU================================[&]        
+    #^# {-/+}                                                          #*#    \                               <=  0; 1; #*# 7GG =============/ + + + + + + + + + + + + + + + + + +  ^    \                          #*#    LUNCH ............... !:ok {...}   -> #*#
+    /*- AVES && LOGY RED VS BLUE TEAM DOCS                          #*#        \                              <=  0; 1; #*# 8HH ============/ + + + + + + + + + + + + + + + + + +   ^     \                         #*#    LUNCH ............... !:ok {...}   -> #*# #*#
+    #~# Introductional Linguistics                               #*#            \                             <=  0; 1; #*# 9II ========== / -> (*) ===================================={*}  :|:                    #*#    LUNCH ............... !:ok {...}   -> #*# #*# #*#
+    #!# Read Only Modules                                        #*#             \                            <=  0; 1; #*#  Qwerty->Translations.Sigil.Tokens.Our.Space-<-|->-(*)--------------> (*)               #*#    LUNCH ............... !:ok {...}   -> #*# #*# #*# #*#
+    #@# ID  CODY x x dj x x x                                    #*#              \                           <=  0; 1; #*# 99 \ =======================================================[*]  :|:                    #*#    LUNCH ............... !:ok {...}   -> #*# #*# #*# #*# #*#
+    #$# TODO                                                     #*#               \                          <=  0; 1; #*# 88  \                                                       /                           #*#    LUNCH ............... !:ok {...}   -> #*# #*# #*# #*# #*# #*#
+    #%# SPECS                                                    #*#                \                         <=  0; 1; #*# 77   \_____________________________________________________/                            #*#    LUNCH ............... !:ok {...}   -> #*# #*# #*# #*# #*# #*# #*# ---> %1001 !== CB :|: CB 0; 1; return;
+    #^# WARNINGS OTW SPECS                                       #*#                 \                        <=  0; 1; #*# 66    \                                                   /                             #*#    LUNCH ............... !:ok {...}   -> #*# #*# #*# #*# #*# #*#
+    #&# Routine Functions                                        #*#                  \                       <=  0; 1; #*# 55     \ ________________________________________________/                              #*#    LUNCH ............... !:ok {...}   -> #*# #*# #*# #*# #*#
+    #*# Comments => ????                                         #*#                   \                      <=  0; 1; #*# 44      \                                               /                               #*#    LUNCH ............... !:ok {...}   -> #*# #*# #*#
+    #(#) Select Logy Special                                        #*#                 \                     <=  0; 1; #*# 33       \_____________________________________________/                                #*#    LUNCH ............... !:ok {...}   -> #*# #*#
+    #)#  Select Aves Left                                               #*#              \                    <=  0; 1; #*# 22        \                                           /                                 #*#    LUNCH ............... !:ok {...}   -> #*# 
+    *      = Asterisk                                                      #^#            \                   <=  0; 1; #*#            \_________________________________________/ #*# #*# #*# #*# #*# #*# #*# #*# #*# #*# #*# #*# #*# #*# <--------------------------- [&]
+    %      = Modulo                                                           #^#          \                  <=  0; 1; #*#      -> :?  \                                       / #*# #*# #*# #*# #*# #*# #*# #*# #*# #*# #*# #*# #*# #*#  <--------------------------- [&]
+    /      = path                                                                #^#        \                 <=  0; 1; #*#      -> :?  /______________________________________/                                    #*#    %CB!==ARRAY.PUSH* #*# #*# 0C1A0CA20C0YT1
+    ...    = running                                                                #^#      \                <=  0; 1; #*#           /                                       /                                     #*#=== %CB!==ARRAY.PUSH* #*# #*# O!O@O#O$O%O^O&O*O(O)
+    \      = ref-path                                                            #^#          \               <=  0; 1; #*#         /________________________________________/                                      #*#=== %CB!==ARRAY.PUSH* #*# #*# 0123456789   
+    ++     = incremental                                                      #^#              \              <=  0; 1; #*#       /                                         /                                       #*#=== %CB!==ARRAY.PUSH* #*# #*# qwerty+keyboard       
+    .*.    = asterisk :connect:                                            #^#                  \             <=  0; 1; #*#     /__________________________________________/                                        [*]=== %CB!==ARRAY.PUSH* #*# #*# final.push.array.cb32411
+ ,,,.=./   = proto.type-X <- run {...}                                        #^#                \            <=  0; 1; #*#   /                                           /                                         #*#==  %CB!==ARRAY.PUSH* #*# #*# CODERAD->SpaceTime CTRL COMMAND CONSOLE
+    |      = proto.connect.index.mod.map                                         #^#              \           <=  0; 1; #*# /____________________________________________/                                          #*#==  %CB!==ARRAY.PUSH* #*# #*# !THANKS->For you know what {...}
+    ..     = proto.connect.move cd .. changes directory backwards if say            #^#            \          <=  0; 1; #*# \                                           /                                           #*#==  %CB!==ARRAY.PUSH* #*# #*# Aves {...}
+    {...}  = proto.path.mod.map == '~//src/map/connect/temp/dev/null/.cache'           #^#          \         <=  0; 1; #*#  \_________________________________________/                                            #*#==  %CB!==ARRAY.PUSH* #*# #*# Logy {...}
+    A-Z    = Alphabet            #*# Aves Translate                                    #^#           \        <=  0; 1; #*#   \                                       /                                             #*# #*# ========================================================[*]
+    a-z    = lowercase Alphabet  #^# Logy Software Group                                   #^#        \       <=  0; 1; #*#    \_____________________________________/   #*# #*# #*# #*# #*# #*# #*# #*# #*# #*# #*# #*# #*# #*#  <--------------------------- [&] 
+    -9     = Base +9 system      #&# Open Source Software                                      #^#     \      :&: 0; 1; #*#     \                                   /    #*# #*# #*# #*# #*# #*# #*# #*# #*# #*# #*# #*# #*# #*#  <--------------------------- [&]
+    &&     = Base                #~# Additional Operators                                               \    [..............] ::(*) ==============================[*]                                               #*# #*# ========================================================[*]
+    ::     = Object Setter       #?# Objective and or Literal like ':Type:' + ":Select:"                 \       #*# #*# #*#                                                                                        #*# _________________________    (0) ~                     #*# #*# #*#
+    **     = Special L(example)R #!# End of Script -!- WARNING END OF SCRIPT LOAD NEXT SCRIPT -!-         \          #*#                                                                                            #*# _______________________      (1)  !                    #*# #*# #*#
+    *Type* = Special Keyword                                                                               \      ===#*#=======                      {*}                                                            #*# __________________________   (2)   @                   #*# #*# #*#
+    )      = parameter close                                                                                \     ===#*#================              {*}                                                           #*# _______________________      (3)    #                   
+    ref == AvesTranslate -> ('*&^%$@!~')} + ':|:' }-*/                                                       \    ===#*#=========                      {*}                                                          #*# __________________________   (4)     $
+#*#    // create index for some data                                                                          \   ===#*#===================             {*}                                                         #*# ______________________       (5)    %
+                                                                                                    -> (*)     \  ===#*#==============                  {*}                                                         #*# __________________________   (6)  ^
+index := suffixarray.New(data)                                                                                 /  ===#*#=================              {*}                                                          #*# _______________________      (7)    &
+                                                                                                              /   ===#*#==========================    {*}                                                           #*# __________________________   (8)  *
+// lookup byte slice s                                                                                       /    ===#*#============                 {*}                                                            #*# _______________________      (9)    (
+offsets1 := index.Lookup(s, -1) #*#  // the list of all indices where s occurs in data                       \    ===#*#===================         {*}                                                             #*# __________________________   (10)  !)
+offsets2 := index.Lookup(s, 3)  #*# // the list of at most 3 indices where s occurs in data                   \   ===#*#========================   {*}                                                              #*# ______________________       (1)    !
+                                                                                                               \  ===#*#===================       {*}                                                               #*# __________________________   (2)   @
+    #&# !== important require \@syscall %==open ++@system:L.engine*** services && goto \open;                   \    #*#                                                                                            #*# ______________________       (3)    #
+}   #*# !== important require \@syscall !==require import open service && support 0; 1; %==open{+}@system:: :::  \   #*#                                                                                            #*# __________________________   (4)   $
+no; #*# !== important require \@syscall !==require import open service && support 0; 1; %==open{+}@system:  :::   \ ^*goto*^                                                                                        #*# ______________________       (5)     %
+END;#*# !== important require \@syscall !==require import open service && support 0; 1; %==open{+}@sys      :::  (C)>:|:<(B) :|: A Qwerty Evo Hopper Spacetime Script -> way Past Pluto! !OTW => >:[[>%i_CODY<]]:<  #*# __________________________   (6)   ^ 
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 ```
 
-## Credits 
-Made by The Logy Software Group (LSG) Development Software Interaction Services it support OTW
+### !Thanks 
+
+## ~Enjoy
