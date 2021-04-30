@@ -22,12 +22,12 @@ sub console_CTRL_command_LOGY {...}; #*# #*# #*# #*# Ch. -> -11-                
 sub console_CTRL_command_AVES {...}; #*# #*# #*#                                                   /      <=  0; 1; #*#A===***
 sub console_CTRL_command_LOGY {...}; #*# #*#                                                      /       <=  0; 1; #*#B===***
 sub console_CTRL_command_AVES {...}; #*#                                                         /        <=  0; 1; #*#C===***
-                                                                                                 \        <=  0; 1; #*#D===***
-                                                                                                  \       <=  0; 1; #*#E===***
-sub console_CTRL_command_TEAM  {...}; #*#                                                          \      <=  0; 1; #*#F===***
-sub console_CTRL_command_SRC   {...}; #*# #*#                                                       \     <=  0; 1; #*#G===***
-sub console_CTRL_command_CODE  {...}; #*# #*# #*#                                                    \    <=  0; 1; #*#H===***
-sub console_CTRL_command_CODY  {...}; #*# #*# #*# #*# Ch. -> -22-                                    /    <=  0; 1; #*#I===***
+                                                                                                /         <=  0; 1; #*#D===***
+                                                                                                 \        <=  0; 1; #*#E===***
+sub console_CTRL_command_TEAM  {...}; #*#                                                         \       <=  0; 1; #*#F===***
+sub console_CTRL_command_SRC   {...}; #*# #*#                                                      \      <=  0; 1; #*#G===***
+sub console_CTRL_command_CODE  {...}; #*# #*# #*#                                                   \     <=  0; 1; #*#H===***
+sub console_CTRL_command_CODY  {...}; #*# #*# #*# #*# Ch. -> -22-                                   /     <=  0; 1; #*#I===***
 sub console_CTRL_command_PROGY {...}; #*# #*# #*#                                                  /      <=  0; 1; #*#J===***
 sub console_CTRL_command_FINAL {...}; #*# #*#                                                     /       <=  0; 1; #*#K===***
 sub console_CTRL_command_EXT   {...}; #*#                                                        /        <=  0; 1; #*#L===***
@@ -43,7 +43,7 @@ sub console_CTRL_command__CTRL__CB7 {...}; #*#                                  
                                                                                        /                  <=  0; 1; #*#V===***
                                                                                       /                   <=  0; 1; #*#W===***
 sub console_CTRL_command {...}; #*#                                                  /                    <=  0; 1; #*#X===***
-sub console_CTRL_command {...}; #*# #*#                                            /                      <=  0; 1; #*#Y===***
+sub console_CTRL_command {...}; #*# #*#                                             /                     <=  0; 1; #*#Y===***
 sub console_CTRL_command {...}; #*# #*# #*#                                       /                       <=  0; 1; #*#Z===***
 sub console_CTRL_command {...}; #*# #*# #*# #*# Ch. -R+32-                      /                         <=  0; 1; #*# 1AA
 sub console_CTRL_command {...}; #*# #*# #*#                                     \                         <=  0; 1; #*# 2BB
@@ -52,9 +52,9 @@ sub console_CTRL_command {...}; #*#                                          [<{
 #&#    !== important require \@syscall %==close ++@system:R.engine*** service && goto \ports;             <=  0; 1; #*# 5EE
 #*#    !== important require \@syscall %==map                      #*# /[<{(:&:)}>]                       <=  0; 1; #*# 6FF
     #^# {-/+}                                                          #*#    \                           <=  0; 1; #*# 7GG
-    /*- AVES && LOGY RED VS BLUE TEAM DOCS                          #*#        \                          <=  0; 1; #*# 8HH
-    #~# Introductional Linguistics                               #*#           \                          <=  0; 1; #*# 9II
-    #!# Read Only Modules                                        #*#            \                         <=  0; 1; #*#  Qwerty->Translations.Sigil.Tokens.Our.Space
+    /*- AVES && LOGY RED VS BLUE TEAM DOCS                          #*#      /                            <=  0; 1; #*# 8HH
+    #~# Introductional Linguistics                               #*#          \                           <=  0; 1; #*# 9II
+    #!# Read Only Modules                                        #*#           \                          <=  0; 1; #*# AAA32 > say ':|:' 0; 1; Qwerty->Translations.Sigil.Tokens.Our.Space                      #*#            \                         <=  0; 1; #*# BBB32 > say ':|:' 0; 1;
     #@# ID                                                       #*#             \                        <=  0; 1; #*# 99
     #$# TODO                                                     #*#              \                       <=  0; 1; #*# 88
     #%# SPECS                                                    #*#               \                      <=  0; 1; #*# 77
