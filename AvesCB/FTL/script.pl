@@ -1,0 +1,118 @@
+#!/usr/bin/perl -del
+!== require __main__.py => '\@support.ext*'+'\@team';
+import open 'service' && 'support';
+
+print 'Mon 03 May 2021 07:42:06 PM MDT';
+
+#Todo# Application Build Development Network Server Client {...}
+
+use readonly;      #^# (read only rules)
+use warnings;      #^# (warnings for output data)
+use strict;        #^# (strict compiler type check safe:pass !== 1;)
+
+#*# [EN-CODE-US] :service: $GUIX->./Console.p6
+    #*#  move()    #*# ((a() )+(b() )=(c() )::[_cb_][__tlc__][--32]{source/open}{open\source}{Dappi\INET}<CTRL>)
+    #*# shift()    #*# !== require import service support system 
+    #*#  opts()    #*# !== require export service support && goto open system 
+    #*#  service() #*# !== require xpath::xref 
+    #*#  support() #*# !== read {EQ:[exit->!exit()+exit]} + {EQ:[a+b=c &&<-::->|| c=b+a ]} = {Example: "Objective" + 'Literal' = {Better Grammar****} pass:ok 0; 0; 1;}
+    #*#  peek()    #*# ! statement
+    #*#  seek()    #*# @ id
+    #*#  code()    #*# # root
+    #*#   via()    #*# $ token
+    #*#   via()    #*# % modulo
+    #*#   via()    #*# ^ indicator(caret)
+    #*#   via()    #*# & and ... here.
+    #*#   via()    #*# * randgenstar
+    #*#   via()    #*# :: bond
+    #*#   via()    #*# .:.|:.::|:.:.|..::|::.|.:.::. \@name $ : > sigils <?>
+
+#*#                                    #*#\__________________________#*# -> A.*
+#*# *                                  #*#\___________________________#*# -> B.*
+#*# ├── scripts                        #*# \___________________________#*# -> C.*
+#*# |   ├── ASAP.pl                    #*#  \___________________________#*# -> D.*
+#*# │   ├── Command_Sigils..md         #*#   \___________________________#*# -> E.*
+#*# │   ├── google-chrome              #*#    \___________________________#*# -> F.*
+#*# │   ├── GSGT.p6                    #*#     \___________________________#*# -> G.*
+#*# │   ├── GUIX.html                  #*#     /___________________________#*# -> H.*
+#*# │   ├── GUIX.p6                    #*#   /___________________________#*# -> I.*
+#*# │   ├── *.html                     #*# /___________________________#*# -> J.*
+#*# │   ├── __INT__.p6                 #*#\___________________________#*# -> K.*
+#*# │   ├── menu.p6                    #*# \___________________________#*# -> L.*
+#*# │   ├── (~!@#$%^&*).p6             #*#  \___________________________#*# -> M.*
+#*# │   ├── readme.md                  #*#   \___________________________#*# -> N.*
+#*# │   ├── services.html              #*#    \___________________________#*# -> O.*
+#*# │   ├── Shotwell Import Log.txt    #*#     \___________________________#*# -> P.*
+#*# │   ├── __src__                    #*#      \___________________________#*# -> Q.*
+#*# │   ├── src.config.ini             #*#       \___________________________#*# -> R.*
+#*# │   └── _warnings.c                #*#        \___________________________#*# -> S.*
+#*# └── TRIANGLE.EXT*                  #*#         \___________________________#*# -> T.*
+#*#     :select:      *STARS*          #*#          \___________________________#*# -> U.*
+#*#   :alphabet:      *A_Z*            #*#           \___________________________#*# -> V.*
+#*#    :require:      *TRUTH*          #*#            \___________________________#*# -> W.*
+#*#    :options:      *INDEX*          #*#             \___________________________#*# -> X.*
+#*#   :iconfigs:      *SRC*            #*#              \___________________________#*# -> Y.*
+#*#   :settings:      *CODY*           #*#               \___________________________#*# -> Z.*                -!-
+#*#     :item_1:      *CODE*           #*#__________ __________________________________________________________T() -> #*# <C>
+#*#     :item_2:      *ID*             #*#          \__________________________________________________________H() -> #*# <C>             
+#*#     :item_3:      *Pack*           #*#          \         \________________________________________________A() -> #*# <C>
+#*#     :item_4:      *Soap*           #*#    A     \         \         \ _____________________________________N() -> #*# <C>
+#*#     :item_5:      *Dish*           #*#          \    B    \         \         \____________________________K() -> #*# <C>
+#*#     :item_6:      *Blue*           #*# _________\         \    C    \         \         \__________________S() -> #*# <C>
+#*#     :item_7:      *GSGT*           #*#          \ ________\         \    D    \         \                               \
+#*#     :item_8:      *ACCESS*         #*#                    \_________\         \    E    \     @CodeR32-dev              \
+#*#     :item_9:      *SECTOR*         #*#                              \_________\         \     @R32Code                  \   
+#*#     :item_10:     *DIRECTORY*      #*#                                        \_________\                               \
+#*#     :item_11:     *COPYWORKS*      #*#                                                  \_______________________________\
+
+BEGIN: <C> seek s.mp4{'▁▁▁▅▃▂▃▂▃▅▇▆▇▆▇▅▆▅▆▅▇▇▆▇▇▄▂▃▂▁▁▁__'}; 
+
+@proto:($const->@signed:%hash(+)charset utf-8 unicode *c, size_time => length*) {
+for *this->next: $bool @set => default: 1; 
+#*# INFO
+  for (size_t $i = %1001;
+  else sftp->xttps*
+   @RTV:$Caller->@CodyBee{DAPPI.COMMS.UNIT-324CB41132->.push
+#~# Communications Array With Sub Background Operations
+   ->COMMS.ARRAY32CB* 
+        sub comms_array*   {...} #*# comms_array* 
+        sub channel_open*  {...} #&# channel_open*
+        sub music_AP_32*   {...} #^# music_AP_32*
+   use :select: *Program* + *Network* = *Connection*'}
+                                                    #&# sub_routines_background_services {...}
+                                                    #*# after ; no words after.
+                                                    #^# Warnings {...} sudo poweroff OFFLINE (!@\LAGOON)
+                                                    <COMMAND> <CONSOLE> <AVES> <LOGY> 
+#Todo# logy & aves {...}                            #*# Application.Network.RTV {...}
+#~# try next statement block                        #*# view->controller !==require *window* + *network* = *support*
+:select: goto open ./dashboard.py                   #*# for :AVES: goto my :Service: load main package module via 
+*Net* + *Src* = *Code*                              #*#   :: #*#___________________________#*# > 3(c*)+2(b*)=1(a*)
+sub console {...}                                   #*#   :: #*#___________________________#*# > 2(b*)+3(c*)=1(a*)
+#&# console-> !running. [$i] + (a+b=c) = {%abc}     #*#   :: #*#___________________________#*# > 1(a*)+2(b*)=3(c*)
+:select: goto open ./console.sh   #*# @\SRC:[+0]    #*#   :: #*#___________________________#*# > 3(c*)+2(b*)=1(a*)
+*Net* + *Src* = *Code*            #~# @\SRC:[+1]    #*#   :: #*#___________________________#*# > 2(b*)+3(c*)=1(a*)
+sub    aves {...}                                   #*#   :: #*#___________________________#*# > 1(a*)+2(b*)=3(c*)
+#&# aves->    !running. [$i] + (d+e=f) = {%def}     #*#   :: #*#___________________________#*# > 3(c*)+2(b*)=1(a*)
+:select: goto open ./console.p6   #*# @\SRC:[+2]    #*#   :: #*#___________________________#*# > 2(b*)+3(c*)=1(a*)
+*Net* + *Src* = *Code*            #~# @\SRC:[+3]    #*#   :: #*#___________________________#*# > 1(a*)+2(b*)=3(c*)
+sub    ctrl {...}                                   #*#   :: #*#___________________________#*# > 3(c*)+2(b*)=1(a*)
+#&# ctrl->    !running. [$i] + (g+h=i) = {%ghi}     #*#   :: #*#___________________________#*# > 2(b*)+3(c*)=1(a*)
+:select: goto open ./console.p6   #*# @\SRC:[+4]    #*#   :: #*#___________________________#*# > 1(a*)+2(b*)=3(c*)
+*Net* + *Src* = *Code*            #~# @\SRC:[+5]    #*#   :: #*#___________________________#*# > 3(c*)+2(b*)=1(a*)
+sub    logy {...}                                   #*#   :: #*#___________________________#*# > 2(b*)+3(c*)=1(a*)
+#&# logy->    !running. [$i] + (j+k=l) = {%jkl}     #*#   :: #*#___________________________#*# > 1(a*)+2(b*)=3(c*)
+:select: goto open ./console.psgi #*# @\SRC:[+6]    #*#   :: #*#___________________________#*# > 2(b*)+3(c*)=1(a*)
+:select: goto open ./console.psgi #*# @\SRC:[+6]    #*#   :: #*#___________________________#*# > 3(c*)+2(b*)=1(a*)
+*Net* + *Src* = *Code*            #~# @\SRC:[+7]    #*#   :: #*#___________________________#*# > 1(a*)+2(b*)=3(c*)
+sub command {...}                                   #*#   :: #*#___________________________#*# > 2(b*)+3(c*)=1(a*)
+#&# command-> !running. [$i] + (m+n=o) = {%mno}     #*#   :: #*#___________________________#*# > 3(c*)+2(b*)=1(a*)
+:select: goto open ./console*     #*# @\SRC:[+8]    #*#   :: #*#___________________________#*# > 1(a*)+2(b*)=3(c*)
+*Net* + *Src* = *Code*            #~# @\SRC:[+9]    #*#   :: #*#___________________________#*# > 2(b*)+3(c*)=1(a*)
+say '$i' "<" 'len'; !== require $i++ @Engine.IO*) {
+if(cody[$i] < 0) return: pass:!ok +1;}
+return true;} #*# Pass valid program interface {...}
+return 0;     #*# Contact Pass !ok
+return 1;     #*# Pass and or Fail -0 &&|| +1;
+else use exit;
+#!# End of Script
+END;
