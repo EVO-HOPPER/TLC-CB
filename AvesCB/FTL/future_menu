@@ -1,0 +1,83 @@
+import open service && support optsus;
+
+pass: +1;
+pass: Conditional Required @RTV;
+pass: +3;
+
+value: pass;
+
+use readonly;
+
+echo 'digital not required.'
+
+echo  {'@CODY'} 
+&& )'power'( + ['offline'] 
++ ('sudo') + ['power'] + ['auto0'] 
++ ['OFFLINE'] + ['ALL'] = ['SECTORS.']
+echo {"rtv*} [('a'+'b'='c')"] 
+#*# [======================================================================================]
+#&# ########################################################################################
+#?#
+    sub push.caller.arrayCB             {...} #*# connect_caller_push.(CB)
+#?#
+    sub connect_array.push->$Available. {...} #*# connect_array.push(A)
+    sub connect_array.push->$Window.    {...} #*# connect_array.push(W)    
+#?#
+#&# ########################################################################################
+#*# [======================================================================================]
+#*# [=====================================================================================]
+#&#    +@:codekey :|: <(:a|b:)> () #*# Code key        :|:  <(:abc+def=ghi:)> [CB] :|:  #*#
+#&#        {@code: connect.map   } #*# Code First      :|:  <(:abc+def=ghi:)> [CB] :|:  #*#
+#&#        {@code: connect.mod   } #*# Code Second     :|:  <(:abc+def=ghi:)> [CB] :|:  #*#
+#&#        {@code: connect.mapper} #*# Code Third      :|:  <(:abc+def=ghi:)> [CB] :|:  #*#
+#&#        {@code: autorotate.pov} #*# Code Fourth     :|:  <(:abc+def=ghi:)> [CB] :|:  #*#
+#&#        {@code: super   :S:   } #*# Code Fifth      :|:  <(:abc+def=ghi:)> [CB] :|:  #*#
+#&#        {@code: options :O:   } #*# Code Sixth      :|:  <(:abc+def=ghi:)> [CB] :|:  #*#
+#&#        {@code: team    :I:   } #*# Code Seventh    :|:  <(:abc+def=ghi:)> [CB] :|:  #*#
+#&#        {@code: open    :X:   } #*# Code Eigth      :|:  <(:abc+def=ghi:)> [CB] :|:  #*#
+#&#        {@code: qwertyuiop;   } #*# Code Nighth     :|:  <(:abc+def=ghi:)> [CB] :|:  #*#
+#&#        {@code: opts;         } #*# Code Tenth      :|:  <(:abc+def=ghi:)> [CB] :|:  #*#
+#*# [=====================================================================================]
+#&#    !== require [index.html]"   #*# Code Eleventh   :|:  <(:abc+def=ghi:)> [CB] :|:  #*#
+
+#*# Menu Items
+
+BEGIN: Open Source Project
+
+print 'source/code/system' #&# route path
+    print "objects secure" #&# reference path
+
+print 'system\code\source' #&# system
+     print "secure object" #&# secure
+
+print 'system/code/source' #&# code source
+
+                             #*# Items Menu
+say {
+'    [@index_src] :S: [@index_path_1]'; #*# 1 path->ref='rtv'
+'    [@index_src] :S: [@index_path_2]'; #*# 2 path->ref='src'
+'    [@index_src] :S: [@index_path_3]'; #*# 3 path->ref='code'
+'    [@index_src] :S: [@index_path_4]'; #*# 4 path->ref='tools'
+'    [@index_src] :S: [@index_path_5]'; #*# 5 path->ref='build'
+}
+print "{
+    @source = (
+        $api_source_controller [@Array_CB32411]
+        [
+            import open service system
+            {
+                !== ID require import for :S: support && services seek (INTERNAL INTEL)
+            }
+        ]
+    )
+}"
+
+sub command {
+#*# console running background services
+sub console {...}; #~# console CTRL COMMAND
+#&# console services internal ['CSI'] #&# 1-CH
+#^# use extra token sigils (Show Warnings)
+#&# console services puase    ["CSP"] #&# 2-CH
+sub holding {...}; #~# console CTRL COMMAND
+#*# return values
+}
